@@ -1,3 +1,3 @@
 # os-tests
 
-first perl scripts and html pages used for OpenShift / minishift testing
+first perl scripts and html pages used for OpenShift
